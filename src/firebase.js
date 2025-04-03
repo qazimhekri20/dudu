@@ -16,13 +16,13 @@
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAoWWUnR08_70JDbf-M1VsGhqFxlWNk0qQ",
-  authDomain: "metabusinessappeals.firebaseapp.com",
-  projectId: "metabusinessappeals",
-  storageBucket: "metabusinessappeals.appspot.com",
-  messagingSenderId: "179078020468",
-  appId: "1:179078020468:web:3febc3fda2b041b9390021",
-  measurementId: "G-617YKDSL1W"
+  apiKey: "AIzaSyCqWdvKk8XR-U74aUik-0SUx9CQWM1yDYE",
+  authDomain: "wherebebi.firebaseapp.com",
+  projectId: "wherebebi",
+  storageBucket: "wherebebi.firebasestorage.app",
+  messagingSenderId: "72941704391",
+  appId: "1:72941704391:web:7624bd8224c9c459255ae2",
+  measurementId: "G-LL8QM1T6RY"
 };
 
 // Initialize Firebase
